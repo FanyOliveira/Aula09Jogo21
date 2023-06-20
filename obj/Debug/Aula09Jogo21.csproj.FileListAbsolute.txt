@@ -1,0 +1,7 @@
+C:\Users\rafany.cojesus\source\repos\Aula09Jogo21\Aula09Jogo21\bin\Debug\Aula09Jogo21.exe.config
+C:\Users\rafany.cojesus\source\repos\Aula09Jogo21\Aula09Jogo21\bin\Debug\Aula09Jogo21.exe
+C:\Users\rafany.cojesus\source\repos\Aula09Jogo21\Aula09Jogo21\bin\Debug\Aula09Jogo21.pdb
+C:\Users\rafany.cojesus\source\repos\Aula09Jogo21\Aula09Jogo21\obj\Debug\Aula09Jogo21.csproj.AssemblyReference.cache
+C:\Users\rafany.cojesus\source\repos\Aula09Jogo21\Aula09Jogo21\obj\Debug\Aula09Jogo21.csproj.CoreCompileInputs.cache
+C:\Users\rafany.cojesus\source\repos\Aula09Jogo21\Aula09Jogo21\obj\Debug\Aula09Jogo21.exe
+C:\Users\rafany.cojesus\source\repos\Aula09Jogo21\Aula09Jogo21\obj\Debug\Aula09Jogo21.pdb
